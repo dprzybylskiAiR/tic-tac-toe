@@ -1,3 +1,3 @@
 # tic-tac-toe
 
-simple program psio
+Uruchom plik tictactoe.exe.
